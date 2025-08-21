@@ -17,12 +17,11 @@ const userSchema = new mongoose.Schema({
     } , 
     profilePic : {
         type : String , 
-        default : "" ,
-
+        default : "",
     },
-} , {timeStamps : true}) ; 
+}, {timestamps : true}) ; 
 
-  const User = mongoose.model("User" , userSchema) ; 
-  
+// Fix: prevent OverwriteModelError
+const User = mongoose.models.User || mongoose.model("User", userSchema);
 
-  export default User ; 
+export default User;

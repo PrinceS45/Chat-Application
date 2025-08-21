@@ -1,0 +1,16 @@
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{0}: checkout: moving from prince to prince
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{1}: checkout: moving from prince to prince
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: checkout: moving from main to prince
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{3}: checkout: moving from prince to main
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{4}: checkout: moving from prince to prince
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{5}: checkout: moving from main to prince
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{6}: reset: moving to prince
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{7}: checkout: moving from main to main
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{8}: reset: moving to prince
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{9}: checkout: moving from prince to main
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{10}: checkout: moving from main to prince
+[33ma8ccdc1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mprince[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m HEAD@{11}: commit: fix error vercl
+[33m895b87a[m HEAD@{12}: commit: fix api issue
+[33mec60757[m HEAD@{13}: commit: fix error
+[33m9ae90cc[m HEAD@{14}: commit: second commit
+[33m3cb6f98[m HEAD@{15}: commit (initial): first commit
