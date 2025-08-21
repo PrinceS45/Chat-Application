@@ -11,7 +11,7 @@ dotenv.config() ;
 const PORT = process.env.PORT || 5001 ;
 
 app.use(cors({
-    origin: "https://chat-application-two-ecru.vercel.app",
+    origin:[ "https://chat-application-two-ecru.vercel.app" , "http://localhost:5173"],
     credentials: true,
 }));
 
